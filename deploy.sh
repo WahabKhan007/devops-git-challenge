@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Deploying to production environment..."
+echo "Deploying to staging environment..."
 echo "Deployment complete"
